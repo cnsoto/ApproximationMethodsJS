@@ -1,2 +1,2 @@
 # ApproximationMethodsJS
-JavaString library implementing approximation methods
+[**JavaString library implementing approximation methods**]
