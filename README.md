@@ -4,7 +4,7 @@
 JavaString library implementing approximation methods
 
 This library includes the following methods:
-* [Newton](https://github.com/cnsoto/ApproximationMethodsJS/main/README.md#newton)
+* [Newton](#newton)
 
 ## <p id="newton">Newton</p>
 
