@@ -4,9 +4,9 @@
 JavaString library implementing approximation methods
 
 This library includes the following methods:
-* Newton
+* [Newton](https://github.com/cnsoto/ApproximationMethodsJS/edit/main/README.md#newton)
 
-## Newton
+## <p id="newton">Newton</p>
 
 ## Reference
 [Celeste Youtube Channel](https://www.youtube.com/channel/UC284wkyJa_QerOxwgjupKLw)<br>
